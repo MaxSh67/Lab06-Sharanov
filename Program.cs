@@ -138,4 +138,3 @@
 // }
 // Console.WriteLine($"Сумма цифр: {sum}");
 // Console.WriteLine($"Количество цифр: {count}");
-
